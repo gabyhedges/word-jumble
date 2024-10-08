@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ewDMFb0nEeZrs86gfHUAS6Eo2il60oIoytFIc8Rv1NNYc7xxB9OisHFavCut34i26VYN0Zebk7CpuohzrfIYNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabym\\OneDrive - Torrens Global Education Services\\Desktop\\my c# programs\\WordJumble2\\WordJumble2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\gabym\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

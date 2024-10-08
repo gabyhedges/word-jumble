@@ -1,0 +1,14 @@
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\WordJumble2\obj\Debug\net6.0\WordJumble2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\WordJumble2\obj\Debug\net6.0\WordJumble2.AssemblyInfoInputs.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\WordJumble2\obj\Debug\net6.0\WordJumble2.AssemblyInfo.cs
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\WordJumble2\obj\Debug\net6.0\WordJumble2.csproj.CoreCompileInputs.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\WordJumble2\bin\Debug\net6.0\WordJumble2.exe
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\WordJumble2\bin\Debug\net6.0\WordJumble2.deps.json
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\WordJumble2\bin\Debug\net6.0\WordJumble2.runtimeconfig.json
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\WordJumble2\bin\Debug\net6.0\WordJumble2.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\WordJumble2\bin\Debug\net6.0\WordJumble2.pdb
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\WordJumble2\obj\Debug\net6.0\WordJumble2.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\WordJumble2\obj\Debug\net6.0\refint\WordJumble2.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\WordJumble2\obj\Debug\net6.0\WordJumble2.pdb
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\WordJumble2\obj\Debug\net6.0\WordJumble2.genruntimeconfig.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\WordJumble2\obj\Debug\net6.0\ref\WordJumble2.dll
